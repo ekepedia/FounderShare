@@ -1,0 +1,129 @@
+{
+    "URL": "http://localhost:3000",
+    "users": [
+	{
+	    "key_token": "USER1",
+	    "key_id": "USERID1",
+	    "email": "user1@domain.com",
+	    "password": "password"
+	},
+	{
+	    "key_token": "USER2",
+	    "key_id": "USERID2",
+	    "email": "user2@domain.com",
+	    "password": "password"
+	},
+	{
+	    "key_token": "USER3",
+	    "key_id": "USERID3",
+	    "email": "user3@domain.com",
+	    "password": "password"
+	},
+	{
+	    "key_token": "OWNER1",
+	    "key_id": "OWNERID1",
+	    "email": "admin@b1.com",
+	    "password": "password"
+	},
+	{
+	    "key_token": "OWNER2",
+	    "key_id": "OWNERID2",
+	    "email": "admin@b2.com",
+	    "password": "password"
+	},
+	{
+	    "key_token": "OWNER3",
+	    "key_id": "OWNERID3",
+	    "email": "admin@b3.com",
+	    "password": "password"
+	},
+	{
+	    "key_token": "OWNER10",
+	    "key_id": "OWNERID10",
+	    "email": "admin@b10.com",
+	    "password": "password"
+	},
+	{
+	    "key_token": "EMP1",
+	    "key_id": "EMPID1",
+	    "email": "user1@b1.com",
+	    "password": "password"
+	},
+	{
+	    "key_token": "EMP2",
+	    "key_id": "EMPID2",
+	    "email": "user1@b2.com",
+	    "password": "password"
+	},
+	{
+	    "key_token": "EMP3",
+	    "key_id": "EMPID3",
+	    "email": "user1@b3.com",
+	    "password": "password"
+	},
+	{
+	    "key_token": "ADMIN",
+	    "key_id": "ADMINID",
+	    "email": "superuser@domain.com",
+	    "password": "password"
+	}
+    ],
+    "businesses": [
+	{
+	    "key": "B1",
+	    "name": "b1"
+	},
+	{
+	    "key": "B2",
+	    "name": "b2"
+	},
+	{
+	    "key": "B3",
+	    "name": "b3"
+	},
+	{
+	    "key": "B4",
+	    "name": "b4"
+	},
+	{
+	    "key": "B10",
+	    "name": "b10"
+	}
+    ],
+    "giftCardOffers": [
+	{
+	    "status": "ACTIVE",
+	    "keyPrefix": "GCO_ACTIVE_",
+	    "num": 2
+	},
+	{
+	    "status": "DRAFT",
+	    "keyPrefix": "GCO_DRAFT_",
+	    "num": 1
+	}
+    ],
+    "giftCards": [
+	{
+	    "owner": "USERID1",
+	    "num": 1,
+	    "keyPrefix": "GC1_"
+	},
+	{
+	    "owner": "USERID2",
+	    "num": 1,
+	    "keyPrefix": "GC2_"
+	}
+    ],
+    "qrCodes": [
+	{
+	    "business": "B1",
+	    "num": 1,
+	    "keyPrefix": "QR1_"
+	},
+	{
+	    "business": "B2",
+	    "num": 1,
+	    "keyPrefix": "QR2_"
+	}
+    ]
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "userId": "55d756d039062f3557b7cac9",
+        "token": "user1_b6.com",
+        "expirationDate": "2019-12-31T23:00:00.000Z",
+        "_id": "55d756d939062f3557b7cde7"
+    },
+    {
+        "userId": "55d756d039062f3557b7cacf",
+        "token": "expired",
+        "expirationDate": "2010-12-31T23:00:00.000Z",
+        "_id": "55d756d939062f3557b7cde8"
+    },
+    {
+        "userId": "55d756d039062f3557b7cad3",
+        "token": "admin_b8.com",
+        "expirationDate": "2019-12-31T23:00:00.000Z",
+        "_id": "55d756d939062f3557b7cde9"
+    }
+]

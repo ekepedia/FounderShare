@@ -1,0 +1,22 @@
+[
+    {
+        "name": "faq",
+        "content": "<h1>FAQ</h1>",
+        "_id": "55d756d939062f3557b7ce10"
+    },
+    {
+        "name": "copyright",
+        "content": "<h1>Copyright</h1>",
+        "_id": "55d756d939062f3557b7ce11"
+    },
+    {
+        "name": "terms",
+        "content": "<h1>Terms of Use</h1>",
+        "_id": "55d756d939062f3557b7ce12"
+    },
+    {
+        "name": "privacy",
+        "content": "<h1>Privacy Policy</h1>",
+        "_id": "55d756d939062f3557b7ce13"
+    }
+]

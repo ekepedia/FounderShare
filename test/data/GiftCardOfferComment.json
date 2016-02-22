@@ -1,0 +1,18 @@
+[
+    {
+	"_id" : "55dfa13330e51b8a664446dc",
+	"giftCardOfferId" : "55d756d039062f3557b7cb1d",
+	"username" : "Georgia",
+	"userId" : "55d756d039062f3557b7cac9",
+	"comment" : "test",
+	"timestamp" : "2015-08-27T23:45:55.919Z"
+    },
+    {
+	"_id" : "55dfa13330e51b8a664446dd",
+	"giftCardOfferId" : "55d756d039062f3557b7cb1d",
+	"username" : "Georgia",
+	"userId" : "55d756d039062f3557b7cac9",
+	"comment" : "test2",
+	"timestamp" : "2015-08-27T23:45:55.919Z"
+    }
+]

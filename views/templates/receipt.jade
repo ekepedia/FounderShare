@@ -1,0 +1,57 @@
+doctype html
+html(lang="en")
+  head
+    title Transaction receipt
+body
+  #container
+    p Hi #{userFirstName},
+    p Thanks for helping us take back Main Street!
+      br
+      br
+      | You'll find the details of your recent gift card purchase on <a href="https://foundershare.com">foundershare.com</a> below. There's also some info to help you redeem it. If you have any questions or concerns, you can email us at <a href="mailto:support@foundershare.com">support@foundershare.com</a> or call <a href="tel:8605952422">860.595.2422</a>.
+      br
+      br
+      | Cheers!
+      br
+      | The FounderShare Team
+      br
+      br
+      | --Transaction Information--
+      br
+      | Merchant: #{businessName}
+      br
+      | Amount: $#{amount}
+      br
+      | Transaction Date: #{createdAtText}
+      br
+      br
+      | --Info on How to Redeem--
+      br
+      | There are two ways to redeem your gift card. You can: 
+      br
+      br
+      ol
+        li Log into <a href="https://foundershare.com">foundershare.com</a> on your phone
+        li Go to "My F$ Wallet"
+        li And Click "Redeem"
+      br
+      br
+      | OR
+      br
+      br
+      | You can show this QR-code when you're ready to redeem. (Each one of these is special, so this QR code will only work the first time!)
+      br
+      img(src="cid:qrcode")
+      br
+      br
+      | Forget where to go? Here's the address of your favorite business and a handy map in case you need it.
+      br
+      br
+      | #{businessName}
+      br
+      | #{businessStreetAddress}
+      br
+      | #{businessCity}, #{businessState} #{businessZip}
+      br
+      br
+      img(src="cid:gmap")

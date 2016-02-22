@@ -1,0 +1,35 @@
+[
+    {
+        "userId": "55d756d039062f3557b7caa3",
+        "businessId": "55d756cf39062f3557b7ca8c",
+        "businessName": "acidic camera b6",
+        "type": "PURCHASE",
+        "amount": "$50.00",
+        "giftCardId": "55d756d739062f3557b7ccb6",
+        "giftCardOfferId": "55d756d039062f3557b7cb13",
+        "timestamp": "2015-08-21T16:50:32.246Z",
+        "_id": "55d756d839062f3557b7ccfa"
+    },
+    {
+        "userId": "55d756d039062f3557b7cac9",
+        "businessId": "55d756cf39062f3557b7ca8b",
+        "businessName": "disastrous development b9",
+        "type": "PURCHASE",
+        "amount": "$75.00",
+        "giftCardId": "55d756d739062f3557b7cca5",
+        "giftCardOfferId": "55d756d039062f3557b7cb28",
+        "timestamp": "2015-08-21T16:50:32.248Z",
+        "_id": "55d756d839062f3557b7ccff"
+    },
+    {
+        "userId": "55d756d039062f3557b7ca99",
+        "businessId": "55d756cf39062f3557b7ca8b",
+        "businessName": "disastrous development b9",
+        "type": "PURCHASE",
+        "amount": "$50.00",
+        "giftCardId": "55d756d839062f3557b7ccba",
+        "giftCardOfferId": "55d756d039062f3557b7cb1b",
+        "timestamp": "2015-08-21T16:50:32.258Z",
+        "_id": "55d756d839062f3557b7cd04"
+    }
+]

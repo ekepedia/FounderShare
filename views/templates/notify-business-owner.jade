@@ -1,0 +1,14 @@
+doctype html
+html(lang="en")
+  head
+    title Activity on your FounderShare account
+body
+  #container
+    p Hi #{name},
+    p There has been activity on your FounderShare account: 
+      case type
+        when "purchase": | a gift card has been purchased
+        when "comment": | a comment on your offer has been made
+    p Sign into your business account on foundershare.com from your computer or tablet to see the details.
+    p Thank you!
+    p Team FounderShare

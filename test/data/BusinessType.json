@@ -1,0 +1,14 @@
+[
+    {
+        "name": "business_type1",
+        "_id": "1"
+    },
+    {
+        "name": "business_type2",
+        "_id": "2"
+    },
+    {
+        "name": "business_type3",
+        "_id": "3"
+    }
+]

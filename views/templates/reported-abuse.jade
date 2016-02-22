@@ -1,0 +1,13 @@
+doctype html
+html(lang="en")
+  head
+    title Reported Abuse
+body
+  #container
+    p Reporter's Email: #{email}
+    p Issue: #{issue}
+    p Description: #{description}
+    if commentId
+      p Comment Id: #{commentId}
+    if giftCardOfferId
+      p Gift Card Offer Id: #{giftCardOfferId}

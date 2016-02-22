@@ -1,0 +1,14 @@
+
+module.exports = {
+    "SITE_ADMIN_EMAIL": "<your email>",
+    "VERIFY_EMAIL_URL_PREFIX": "https://foundershare.com",
+    AWS: {
+        accessKeyId: "<update>",
+        secretAccessKey: "<update>",
+        region: "<update>"
+    },
+    AWS_BUCKET_NAME: "<update>",
+    TWILIO_ACCOUNT_SID: "<update>",
+    TWILIO_AUTH_TOKEN: "<update>",
+    TWILIO_FROM_NUMBER: "<update>"
+};

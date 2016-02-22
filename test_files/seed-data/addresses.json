@@ -1,0 +1,44 @@
+[
+    {
+        "streetAddress" : "1737 Haight St",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US",
+        "zip": "94117"
+    },
+    {
+        "streetAddress" : "69 7th Ave S",
+        "city": "New York",
+        "state": "NY",
+        "country": "US",
+        "zip": "10014"
+    },
+    {
+        "streetAddress" : "2109 Polk St",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US",
+        "zip": "94109"
+    },
+    {
+        "streetAddress" : "509 Valencia St",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US",
+        "zip": "94110"
+    },
+    {
+        "streetAddress" : "2109 Polk St",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US",
+        "zip": "94109"
+    },
+    {
+        "streetAddress" : "413 8th Ave",
+        "city": "New York",
+        "state": "NY",
+        "country": "US",
+        "zip": "10001"
+    }
+]

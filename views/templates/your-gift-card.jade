@@ -1,0 +1,59 @@
+doctype html
+html(lang="en")
+   head
+      title Your F$ #{gift.readableId} for #{business.name}
+body
+   #container
+      | Hi #{user.firstName},
+      br
+      br
+      | We hope you enjoy your gift!
+      br
+      br
+      | Some information to help you redeem it is below. If you have any questions or concerns, you can email us at <a href="mailto:support@foundershare.com">support@foundershare.com</a> or call <a href="tel:8605952422">860.595.2422</a>.
+      br
+      br
+      | Cheers!
+      br
+      | The FounderShare Team
+      br
+      br
+      br
+      | --Gift Information--
+      br
+      | Merchant: #{business.name}
+      br
+      | Amount: $#{gift.quantity.toFixed(2)}
+      br
+      br
+      br
+      | --Info on How to Redeem--
+      br
+      | There are two ways to redeem your gift card. You can:
+      ol
+        li Log into <a href="https://foundershare.com">foundershare.com</a> on your phone
+        li Go to "My F$ Wallet"
+        li And Click "Redeem"
+      br
+      br
+      br
+      | OR
+      br
+      br
+      | You can show this QR-code when you're ready to redeem. (Each one of these is special, so this QR code will only work the first time!)
+      br
+      br
+      img(src="cid:qrcode")
+      br
+      br
+      | Here's the address of this awesome business and a handy map in case you need it.
+      br
+      br
+      | #{business.name}
+      br
+      | #{business.streetAddress}
+      br
+      | #{business.city}, #{business.state} #{business.zip}
+      br
+      br
+      img(src="cid:gmap")

@@ -1,0 +1,148 @@
+[
+    {
+        "firstName": "Georgia",
+        "lastName": "Walsh",
+        "email": "user1@b6.com",
+        "email_lowered": "user1@b6.com",
+        "passwordHash": "$2a$10$yxaRM0GMIS/XUqoRav8QIe2LmZISZKcLMfHw/ho9wtNqDyZ0PKznS",
+        "userRoles": [
+            {
+                "businessId": "55d756cf39062f3557b7ca8c",
+                "role": "BUSINESS_EMPLOYEE",
+                "id": "55d756d039062f3557b7caca"
+            }
+        ],
+	"linkedSocialNetwork": "FACEBOOK",
+        "linkedSocialNetworkUserId": "123456789",
+        "isPicturePublic": true,
+        "isLocationPublic": true,
+        "isEmailPublic": true,
+        "isLastNamePublic": true,
+        "isFirstNamePublic": true,
+        "_id": "55d756d039062f3557b7cac9"
+    },
+    {
+        "firstName": "Georgia",
+        "lastName": "Walsh",
+        "email": "user2@b6.com",
+        "email_lowered": "user2@b6.com",
+        "passwordHash": "$2a$10$yxaRM0GMIS/XUqoRav8QIe2LmZISZKcLMfHw/ho9wtNqDyZ0PKznS",
+        "userRoles": [
+            {
+                "businessId": "55d756cf39062f3557b7ca8b",
+                "role": "BUSINESS_EMPLOYEE",
+                "id": "55d756d039062f3557b7caca"
+            }
+        ],
+	"linkedSocialNetwork": "FACEBOOK",
+        "linkedSocialNetworkUserId": "123456789",
+        "isPicturePublic": true,
+        "isLocationPublic": true,
+        "isEmailPublic": true,
+        "isLastNamePublic": true,
+        "isFirstNamePublic": true,
+        "_id": "55d756d039062f4557b7cac9"
+    },
+    {
+        "firstName": "Lester",
+        "lastName": "Ellis",
+        "email": "user1@b7.com",
+        "email_lowered": "user1@b7.com",
+        "passwordHash": "$2a$10$yxaRM0GMIS/XUqoRav8QIe2LmZISZKcLMfHw/ho9wtNqDyZ0PKznS",
+        "userRoles": [
+            {
+                "businessId": "55d756cf39062f3557b7ca89",
+                "role": "BUSINESS_EMPLOYEE",
+                "id": "55d756d039062f3557b7cad0"
+            }
+        ],
+        "isPicturePublic": true,
+        "isLocationPublic": true,
+        "isEmailPublic": true,
+        "isLastNamePublic": true,
+        "isFirstNamePublic": true,
+        "_id": "55d756d039062f3557b7cacf"
+    },
+    {
+        "firstName": "Louisa",
+        "lastName": "Barnett",
+        "email": "admin@b8.com",
+        "email_lowered": "admin@b8.com",
+        "passwordHash": "$2a$10$yxaRM0GMIS/XUqoRav8QIe2LmZISZKcLMfHw/ho9wtNqDyZ0PKznS",
+        "userRoles": [
+            {
+                "businessId": "55d756cf39062f3557b7ca92",
+                "role": "BUSINESS_ADMIN",
+                "id": "55d756d039062f3557b7cad4"
+            }
+        ],
+        "isPicturePublic": true,
+        "isLocationPublic": true,
+        "isEmailPublic": true,
+        "isLastNamePublic": true,
+        "isFirstNamePublic": true,
+        "_id": "55d756d039062f3557b7cad3"
+    },
+    {
+        "firstName": "Bruce",
+        "lastName": "Larson",
+        "email": "user1@domain.com",
+        "email_lowered": "user1@domain.com",
+        "passwordHash": "$2a$10$3pd7UAF06hCBEcqjtPNEWOZyMoZOFfjRHKv0pMOUk2uYkWB1WZbgS",
+        "userRoles": [
+            {
+                "role": "INDIVIDUAL_USER",
+                "id": "55df6f40c7f799595d1aad44"
+            }
+        ],
+        "isPicturePublic": true,
+        "isLocationPublic": true,
+        "isEmailPublic": true,
+        "isLastNamePublic": true,
+        "isFirstNamePublic": true,
+        "_id": "55df6f40c7f799595d1aad43",
+	"resetPasswordExpired" : false,
+	"resetPasswordToken" : "reset-token"
+    },
+    {
+        "firstName": "Estelle",
+        "lastName": "Ortiz",
+        "email": "superuser@domain.com",
+        "email_lowered": "superuser@domain.com",
+        "passwordHash": "$2a$10$yHxMWiqizW5tToXbOc7xzOGVBgReQZit7F9g4o1LSoA6qRu9hgPVi",
+        "userRoles": [
+            {
+                "role": "PLATFORM_EMPLOYEE",
+                "id": "5608307417f73e7c266a27b3"
+            }
+        ],
+        "subscribedToNews": true,
+        "isPicturePublic": true,
+        "isLocationPublic": true,
+        "isEmailPublic": true,
+        "isLastNamePublic": true,
+        "isFirstNamePublic": true,
+        "_id": "5608307417f73e7c266a27b2"
+    },
+    {
+        "firstName": "Betty",
+        "lastName": "Harmon",
+        "email": "user2@b536.com",
+        "email_lowered": "user2@b536.com",
+        "passwordHash": "$2a$10$yHxMWiqizW5tToXbOc7xzOGVBgReQZit7F9g4o1LSoA6qRu9hgPVi",
+        "userRoles": [
+            {
+                "businessId": "5608307317f73e7c266a279a",
+                "role": "BUSINESS_EMPLOYEE",
+                "id": "5608307517f73e7c266a3443"
+            }
+        ],
+        "subscribedToNews": true,
+        "isPicturePublic": true,
+        "isLocationPublic": true,
+        "isEmailPublic": true,
+        "isLastNamePublic": true,
+        "isFirstNamePublic": true,
+        "_id": "5608307517f73e7c266a3442"
+    }
+]
